@@ -1,1 +1,1 @@
-
+Its basically a Binary Patcher Nothing More , If you want redshift without water marked then it must run a Fake RLM server in background and Forcely Hook with Redgiant service to introduce as a Legit License 

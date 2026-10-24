@@ -1,44 +1,38 @@
+Update Note- 
+Maxon Redgiant 2027
+Maxon Redshift 2027
 
-Install Maxon Cinema 4D 2024,2025,2026 Any Version you Want 
+Has Released-
+I have also Updated The RLM Patch to 2.0
+Uploaded Maxon app 2027.0.0
+Maxon RLM License 2.0
 
-Crack with existing File Available on Internet
+Install Method same as the posted video in bilibilli 
+step 1- Install Maxon App 
+step 2-Install Redgiant / Universe / Redshift Whatever you want 
+step 3-Open patcher select version and apply patch every thing will be unlocked 
 
-For Using this CPU Mode Activation,
-
-You will need to install Maxon app (Mandatory2024,2025,2026)
-
-then just simply open this CPU Activation File Enter Password,Select Installed Version And Apply Patch
-
-That's All
-
-
-and if you want to activate Redgiant/Universe/Magic Bullet For After Effect Simply Click on Activate Redgiant/Universe
-
-Enjoy!!!
-
-From,
-!EAGLE
+Note - This Patcher Can Unlock Redgiant/Universe Fully GPU Will Work on them ,But it GPU Rendering wont Work in Redshfit 
+Only CPU Rendering and RT Rendering will wor on this patch
 
 
-///////////////////////////////////////////////////
+
+-------------------------------------------------------------------------------------------------------------------------------------------
 
 
-安装 Maxon Cinema 4D 2024、2025、2026 或任意版本
+更新说明 -
+Maxon Red Giant 2027
+Maxon Redshift 2027
 
-使用网上已有的破解文件进行破解
+现已发布 -
+已将 RLM 补丁更新至 2.0 版本。
+上传了 Maxon App 2027.0.0。
+包含 Maxon RLM 许可 2.0。
 
-要使用此 CPU 模式激活，
+安装方法与 Bilibili 视频中的演示一致：
+第 1 步：安装 Maxon App。
+第 2 步：安装 Red Giant / Universe / Redshift（根据需要选择安装）。
+第 3 步：打开补丁工具，选择对应版本并应用补丁，即可解锁所有功能。
 
-您需要先安装 Maxon 应用程序（2024、2025、2026 版本必须安装）
-
-然后只需打开此 CPU 激活文件，输入密码，选择已安装的版本并应用补丁即可
-
-完成！
-
-如果您想激活 Redgiant/Universe/Magic Bullet for After Effects，只需点击“激活 Redgiant/Universe”即可。
-
-尽情享受吧！
-
-来自：
-
-!EAGLE
+注意：此补丁可完全解锁 Red Giant/Universe（支持 GPU 加速），但对于 Redshift，GPU 渲染功能无法使用。
+使用此补丁时，Redshift 仅支持 CPU 渲染和实时（RT）渲染。

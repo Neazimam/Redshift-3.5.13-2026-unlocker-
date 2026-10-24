@@ -15,6 +15,7 @@ step 3-Open patcher select version and apply patch every thing will be unlocked
 Note - This Patcher Can Unlock Redgiant/Universe Fully GPU Will Work on them ,But it GPU Rendering wont Work in Redshfit 
 Only CPU Rendering and RT Rendering will wor on this patch
 
+If you want help or want to buy Redshift GPU Contact me Lifetime Redshift (1 Device ) - 100$
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------
@@ -36,3 +37,6 @@ Maxon Redshift 2027
 
 注意：此补丁可完全解锁 Red Giant/Universe（支持 GPU 加速），但对于 Redshift，GPU 渲染功能无法使用。
 使用此补丁时，Redshift 仅支持 CPU 渲染和实时（RT）渲染。
+
+
+如需帮助或有意购买 Redshift GPU 渲染授权，请联系我。Redshift 终身授权（限 1 台设备）售价 700 元人民币。

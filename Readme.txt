@@ -17,7 +17,7 @@ Only CPU Rendering and RT Rendering will wor on this patch
 
 If you want help or want to buy Redshift GPU Contact me Lifetime Redshift (1 Device ) - 100$
 
-
+Email- vdjimam24@gmail.com
 -------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -40,3 +40,6 @@ Maxon Redshift 2027
 
 
 如需帮助或有意购买 Redshift GPU 渲染授权，请联系我。Redshift 终身授权（限 1 台设备）售价 700 元人民币。
+
+
+Email- vdjimam24@gmail.com
